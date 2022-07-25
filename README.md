@@ -1,1 +1,1 @@
-# auto_test_report
+This project is to automate the test report generation using python pandas. The fund_transfer.py and fund_deposit.py generate their own report separately. The programs merge the test case results and output the report required.
